@@ -1,5 +1,8 @@
 INCLUDEPATH += \
     $$PWD
 
-LIBS += \
-    -L../qtwaitingspinner -lqtwaitingspinner
+SOURCES += \
+    $$PWD\waitingspinnerwidget.cpp
+
+HEADERS += \
+    $$PWD\waitingspinnerwidget.h
