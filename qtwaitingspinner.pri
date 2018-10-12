@@ -2,7 +2,7 @@ INCLUDEPATH += \
     $$PWD
 
 SOURCES += \
-    $$PWD\waitingspinnerwidget.cpp
+    $$PWD/waitingspinnerwidget.cpp
 
 HEADERS += \
-    $$PWD\waitingspinnerwidget.h
+    $$PWD/waitingspinnerwidget.h
